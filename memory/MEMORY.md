@@ -17,6 +17,7 @@
 - [M6K — Movimento Massoterapeuta 6K](project_m6k.md) — ecossistema completo (Holos+EAD+UniMasso+ZenPro+tráfego) para massoterapeutas chegarem a R$6k/mês
 - [Xquads — Quando acionar cada squad](feedback_xquads_uso.md) — mapa de uso proativo dos squads instalados
 - [Rede Baixada — Roadmap Comercial](project_rede_baixada_roadmap.md) — projeto prioritário para caixa imediato, material pronto, estratégia Uber+vendas definida
+- [Rede Baixada — Plano Tim Ferriss](project_rede_baixada_tim.md) — 3 planos redefinidos (Presença/Destaque/Autoridade), copy pronto, próximo passo: integração Asaas
 - [Centro de Comando Financeiro](project_centro_comando_financeiro.md) — Sheets + Streamlit + Bot WhatsApp (Hetzner) — sistema completo operacional desde 20/04/26
 - [UniMasso — Assinaturas de Teste Ativas](project_unimasso_testes.md) — 2 assinaturas próprias (Neon + Inter, R$59,80/mês) para testar cobrança — não é receita real, sairão do escopo futuramente
 - [NuBank Jurídico — Estratégia de Uso](project_nubank_juridico_infra.md) — infra tech centralizada nesse cartão + Mercadão como vale-alimentação da empresa (~R$539/mês)
