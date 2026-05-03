@@ -1,0 +1,26 @@
+# Memory Index
+
+- [Lucio Maier — Perfil do Usuário](user_lucio.md) — empreendedor, múltiplos projetos, vault em /home/usuario/Documentos/Revolucio/Revolucio
+- [Reorganização Holos × Rede Publicidade](project_holos_reorganizacao.md) — estrutura completa, valores e próximos passos para formalizar a relação com a Holos
+- [Holos Connect — Deploy na Vercel](project_holos_connect_deploy.md) — deploy no ar, código no GitHub (main atualizada) → ver também auditoria de segurança
+- [Holos Connect — Auditoria de Segurança](project_holos_connect_seguranca.md) — 10 problemas (4 críticos urgentes), plano de ação priorizado, relatório no vault
+- [UniMasso — Auditoria de Segurança](project_unimasso_seguranca.md) — 18 problemas (3 críticos), RLS fraco em subscriptions é o mais grave
+- [UniMasso — Modo Cruzeiro](project_unimasso_modo_cruzeiro.md) — decisão Mai/2026: sem ads, sem dev ativo, uso pessoal como massoterapeuta até ter 20–30 clientes reais
+- [ZenPro — Precificação e Clientes](project_zenpro_precificacao.md) — Edificar R$250 ✅, Holos R$750 ⏳ formalizar — margem ~R$800/mês
+- [ZenPro — Auditoria de Segurança](project_zenpro_seguranca.md) — todos críticos resolvidos em 21/04, itens BREVE/MÉDIO PRAZO pendentes
+- [ZenPro — Bolsão Moderado (em andamento)](project_zenpro_bolsao_moderado.md) — código pronto, falta deploy CLI das edge functions + testes
+- [ZenPro — Disparos em Massa (BulkDispatch)](project_zenpro_disparos.md) — Fases 1 e 2 concluídas, 10 bugs corrigidos, testes funcionais pendentes, Fase 3/4 no backlog
+- [UniMasso × ZenPro — Auditoria de Integração](project_integracao_unimasso_zenpro.md) — taxa de sucesso 28–65%, 10 problemas críticos na entrega de mensagens e transações
+- [Lucio Massoterapeuta — Plano de Conteúdo](project_lucio_massoterapeuta.md) — imersão Guaraú 27/04, @lucio_maier 1.532 seg, carrossel pronto, AIOS+Xquads instalados
+- [Lucio Massoterapeuta — Stories 16/04](project_lucio_massoterapeuta_stories_16abril.md) — maca pronta, sequência de 4 stories + dicas de foto, carrossel sábado 19/04
+- [Plano Financeiro 2026](project_financeiro_2026.md) — déficit -R$4.025 em abril, ponto de virada junho/26, briefing advogado pronto
+- [M6K — Movimento Massoterapeuta 6K](project_m6k.md) — ecossistema completo (Holos+EAD+UniMasso+ZenPro+tráfego) para massoterapeutas chegarem a R$6k/mês
+- [Xquads — Quando acionar cada squad](feedback_xquads_uso.md) — mapa de uso proativo dos squads instalados
+- [Rede Baixada — Roadmap Comercial](project_rede_baixada_roadmap.md) — projeto prioritário para caixa imediato, material pronto, estratégia Uber+vendas definida
+- [Centro de Comando Financeiro](project_centro_comando_financeiro.md) — Sheets + Streamlit + Bot WhatsApp (Hetzner) — sistema completo operacional desde 20/04/26
+- [UniMasso — Assinaturas de Teste Ativas](project_unimasso_testes.md) — 2 assinaturas próprias (Neon + Inter, R$59,80/mês) para testar cobrança — não é receita real, sairão do escopo futuramente
+- [NuBank Jurídico — Estratégia de Uso](project_nubank_juridico_infra.md) — infra tech centralizada nesse cartão + Mercadão como vale-alimentação da empresa (~R$539/mês)
+- [Projeto Minimalista — Itens para Vender](project_minimalismo_venda.md) — lista em construção: 2 monitores, cubo Meteoro, contrabaixo, 2 Canon — anúncios a preparar
+- [Mesa Radiônica Digital](project_mesa_radionica.md) — ideia nascida na internação COVID, reativada 30/04 na sauna — ferramenta de inteligência pessoal com bússola diária, SOURCE CODE + astrologia + tarot + terapias, entregue via ZenPro
+- [Auriculoterapia — Arquivos de Referência](reference_auriculoterapia_arquivos.md) — protocolos e slides no pendrive DE7E-68CD + apostila no vault (pp.21–46 pendentes)
+- [Pendências e próximos assuntos — Maio 2026](project_pendencias_maio2026.md) — ZenCash (fix pendente), bioenergetica a refazer em SP, brainstorm projetos, plano de negócios, Holos
