@@ -24,3 +24,4 @@
 - [Mesa Radiônica Digital](project_mesa_radionica.md) — ideia nascida na internação COVID, reativada 30/04 na sauna — ferramenta de inteligência pessoal com bússola diária, SOURCE CODE + astrologia + tarot + terapias, entregue via ZenPro
 - [Auriculoterapia — Arquivos de Referência](reference_auriculoterapia_arquivos.md) — protocolos e slides no pendrive DE7E-68CD + apostila no vault (pp.21–46 pendentes)
 - [Pendências e próximos assuntos — Maio 2026](project_pendencias_maio2026.md) — ZenCash (fix pendente), bioenergetica a refazer em SP, brainstorm projetos, plano de negócios, Holos
+- [GitHub Backup — Claude Commands e Config](project_github_backup.md) — repos privados Luciomaier/claude-commands e Luciomaier/claude-config — pedir "faz o backup" a qualquer momento
