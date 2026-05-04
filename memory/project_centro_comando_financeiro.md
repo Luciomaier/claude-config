@@ -34,3 +34,28 @@ Sistema construído em 20/04/2026. Totalmente funcional.
 - Reiniciar bot: `ssh root@168.119.185.57 "docker restart financeiro-bot"`
 - Ver logs: `ssh root@168.119.185.57 "docker logs financeiro-bot 2>&1 | tail -20"`
 - Atualizar bot: scp bot.py → restart
+- Restart policy: `unless-stopped` configurado em 03/05/2026 — sobe automaticamente se cair
+
+## Alterações VPS — 03/05/2026 (Nick)
+
+### O que foi feito
+- UFW ativado: `deny incoming` / `allow outgoing`
+- Fail2ban instalado protegendo SSH
+- Credenciais Telegram/gateway movidas para `~/.openclaw/.env`
+- OpenClaw instalado (AI assistant — Docker Compose, porta 18789 só localhost)
+- Crons adicionados: backup (seg 6h) e security audit (seg 7h)
+
+### Estado da infraestrutura
+- Docker Swarm já estava ativo (pré-existente) — todos os serviços rodam como Swarm services
+- `financeiro-bot` é o único container fora do Swarm (bridge network)
+- Webhook Evolution API → bot funciona via `172.17.0.1:8502` (rede interna Docker)
+
+### Firewall UFW — estado final seguro
+| Porta | Regra | Motivo |
+|-------|-------|--------|
+| 22 | ALLOW | SSH |
+| 80/443 | ALLOW | Traefik |
+| 8503 | ALLOW 127.0.0.1 | Dashboard local |
+| 8502 | ALLOW 172.0.0.0/8 | Só redes internas Docker (Evolution API usa 172.18.x.x) |
+| 2377 | DENY | Docker Swarm management |
+| 7946 tcp/udp | DENY | Docker Swarm node comm |
